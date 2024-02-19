@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="num_color">#272727</color>
+    <color name="num_bc">#DAEFFF</color>
+
+    <color name="pastel_blue">#b9d5fd</color>
+    <color name="pastel_purple">#c3b9e3</color>
+    <color name="pastel_grey">#D8E8EE</color>
+<!--    <color name="pastel_grey">#CADEE4</color>-->
+    <color name="pastel_pink">#E3C8E4</color>
+
 </resources>
